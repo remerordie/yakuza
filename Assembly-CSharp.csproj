@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E5C00A68-E6DB-FEA3-938C-F34D364EA738}</ProjectGuid>
+    <ProjectGuid>{A44B8A03-DCDC-B1B1-9866-C225DEC4560C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SCRIPTS\CameraShake.cs" />
+     <Compile Include="Assets\SCRIPTS\CanTeleInteract.cs" />
+     <Compile Include="Assets\SCRIPTS\GameManager.cs" />
      <Compile Include="Assets\SCRIPTS\PhysicsObject.cs" />
      <Compile Include="Assets\SCRIPTS\PlayerController.cs" />
      <Compile Include="Assets\SCRIPTS\WeaponController.cs" />
