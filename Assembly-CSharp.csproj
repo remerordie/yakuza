@@ -54,7 +54,7 @@
      <Compile Include="Assets\SCRIPTS\CameraShake.cs" />
      <Compile Include="Assets\SCRIPTS\CanTeleInteract.cs" />
      <Compile Include="Assets\SCRIPTS\GameManager.cs" />
-     <Compile Include="Assets\SCRIPTS\MainMenu.cs" />
+     <Compile Include="Assets\SCRIPTS\MenuController.cs" />
      <Compile Include="Assets\SCRIPTS\PhysicsObject.cs" />
      <Compile Include="Assets\SCRIPTS\PlayerController.cs" />
      <Compile Include="Assets\SCRIPTS\WeaponController.cs" />

@@ -4,4 +4,37 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/MENU.unity
+    guid: 7dc382f12d7ed4c2eb9627565a157a65
+  - enabled: 1
+    path: Assets/SCENES/LEVEL SELECT.unity
+    guid: 753fb72c1721b4553af20cbce7021ddb
+  - enabled: 1
+    path: Assets/SCENES/00. CITY.unity
+    guid: c69e5f780400c4dfc9cd92d9de771e81
+  - enabled: 1
+    path: Assets/SCENES/01. SEWERS.unity
+    guid: 14b09cb399a2a4c2db1d8257ed88cf75
+  - enabled: 1
+    path: Assets/SCENES/02. CAVE.unity
+    guid: cb9e41ca2e2c14b95bcecd46ca197c39
+  - enabled: 1
+    path: Assets/SCENES/03. FOREST.unity
+    guid: 626d34c186b274d1885ef92599411ad6
+  - enabled: 1
+    path: Assets/SCENES/04. AQUA.unity
+    guid: 7f13af21cf00340bd85c15941d50d8e2
+  - enabled: 1
+    path: Assets/SCENES/05. JUNGLE.unity
+    guid: 578383fdc2e9e425384314971441fd75
+  - enabled: 1
+    path: Assets/SCENES/06. DESERT.unity
+    guid: d39264503ae6144eb8ba0d946208fe09
+  - enabled: 1
+    path: Assets/SCENES/07. TEMPLE.unity
+    guid: 70ef4ac104f4e4eed936e3169c2effa4
+  - enabled: 1
+    path: Assets/SCENES/08. SKY.unity
+    guid: b0e7f4fe94edb4bd389e176506616f89
