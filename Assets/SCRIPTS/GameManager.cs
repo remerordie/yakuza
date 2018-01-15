@@ -9,7 +9,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour {
 
-	public static Gamemanager instance = null;
+	public static GameManager instance = null;
 	public AudioMixer audioMixer;
 	public Dropdown resolutionDropdown;
 	Resolution[] resolutions;
